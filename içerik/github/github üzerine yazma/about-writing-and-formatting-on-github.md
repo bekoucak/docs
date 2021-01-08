@@ -21,7 +21,7 @@ Every comment field on {% data variables.product.product_name %} contains a text
 
 ![Markdown toolbar](/assets/images/help/writing/markdown-toolbar.gif)
 
-### Further reading
+### reading further
 
 - [{% data variables.product.prodname_dotcom %} Flavored Markdown Spec](https://github.github.com/gfm/)
 - "[Basic writing and formatting syntax](/articles/basic-writing-and-formatting-syntax)"
